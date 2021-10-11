@@ -8,7 +8,15 @@ This Repository contains all my projects done using Processing.
 This is a simulation of a double pendulum.You can change the following initial conditions :
 
 ```sh
-mass,length,initial_angle,acceleration due to gravity. 
+float r1 \\length of first pendulum
+float r2 \\length of second pendulum
+float m1 \\mass of first 
+float m2 \\masss of second
+float a1 \\initial angle of first
+float a2 \\initial angle of second
+float a1_v \\angular veloctiy of first
+float a2_v \\angular velocity of second
+float g    \\acceleration due to gravity
 ```
 
 <b>Image Processing(Particles)</b>
