@@ -28,5 +28,22 @@ You can also change the locus by chaning the direction of the velocity vector ie
 velocity=new PVector(16*pow(sin(a), 3)*speed, -(13*cos(a)-5*cos(2*a)-2*cos(3*a)-cos(4*a))*speed); \\This is a parametric equation of a Cardiod.
 ```
 
+You can aslo change the no of particles.
+
+```sh
+particle[] particles=new particle[N];
+```
+
 This is an example of the output:
+
+
+
+
+
+
+
+
+
+
+
 
