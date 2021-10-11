@@ -1,4 +1,4 @@
-particle[] particles=new particle[5000];
+particle[] particles=new particle[10000];
 PImage artery;
 
 void setup() {
