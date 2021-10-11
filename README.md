@@ -36,6 +36,10 @@ particle[] particles=new particle[N];
 
 This is an example of the output:
 
+https://user-images.githubusercontent.com/83541306/136777753-1c203541-0b6f-4243-9ade-abb0d3cf8fb2.mp4
+
+
+
 
 
 
