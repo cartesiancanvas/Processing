@@ -38,6 +38,13 @@ This is an example of the output:
 
 https://user-images.githubusercontent.com/83541306/136777753-1c203541-0b6f-4243-9ade-abb0d3cf8fb2.mp4
 
+<b>Perlin Butterfly</b>
+
+Making a butterfly using Perlin Noise
+
+![Perlin-Butterfly](https://user-images.githubusercontent.com/83541306/136780115-f0a689b4-fdf7-4671-8eff-158309355327.gif)
+
+
 
 
 
