@@ -44,6 +44,20 @@ Making a butterfly using Perlin Noise
 
 ![Perlin-Butterfly](https://user-images.githubusercontent.com/83541306/136780115-f0a689b4-fdf7-4671-8eff-158309355327.gif)
 
+<b>Fractal Trees</b>
+
+![Screenshot 2022-08-05 125903](https://user-images.githubusercontent.com/83541306/183027198-759af804-8d30-4745-98b8-4d8661cd3e36.png)
+
+You can change these parts of the code to get different results
+```sh
+frac_tree(x2, y2, angle-random(10, 35), size, max_size, stroke);
+frac_tree(x2, y2, angle+random(10, 35), size, max_size, stroke);
+```
+You can also change the Common differnece(C.D)
+```sh
+float cd=15;
+```
+
 
 
 
